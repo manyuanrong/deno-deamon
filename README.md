@@ -1,4 +1,7 @@
 # deno-deamon
+
+[![Build Status](https://github.com/manyuanrong/deno-deamon/workflows/CI/badge.svg)](https://github.com/manyuanrong/deno-deamon/actions)
+
 Make the Deno program run in the background
 
 Example
