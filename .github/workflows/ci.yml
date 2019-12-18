@@ -11,4 +11,5 @@ jobs:
       - uses: denolib/setup-deno@v1.1.0
         with:
           deno-version: 0.x
+      - run: deno fetch test_server.ts
       - run: deno run -A test.ts
